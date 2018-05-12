@@ -1,0 +1,37 @@
+_repo: Tony-Butler_33604
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wheeler, Edward J.
+    alias: Wheeler, E. J. (Edward J.)
+    deathdate: 1933
+    gutenberg_agent_id: '25686'
+    url: http://www.gutenberg.org/2009/agents/25686
+covers:
+- cover_type: archival
+  image_path: 33604-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - Lorrequer, Harry
+    - O'Dowd, Cornelius
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: ''
+gutenberg_issued: '2010-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Tony Butler
+url: http://www.gutenberg.org/ebooks/33604
